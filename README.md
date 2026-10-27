@@ -1,31 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mohammed Safiuddin</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Mohammed Safiuddin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiuddin37&label=Profile%20views&color=0e75b6&style=flat" alt="safiuddin37" /> </p>
+**Data Science & AI** | MSc Data Science student at Universität Regensburg | AI Intern at Rubixe
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiuddin37" alt="safiuddin37" /></a> </p>
+I use machine learning and AI to solve real data problems: preparing data, applying and evaluating models, and turning results into tools people can use. I started in full-stack web development (MERN) and moved into data science, so I can take a project from raw data to a working application.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Safiuddin-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/msafiuddin)
 
-- 🔭 I’m currently working on **Bank Management Sys**
+---
 
-- 🌱 I’m currently learning **Backend development**
+## Currently
 
-- 👨‍💻 All of my projects are available at [At my Portfolio](At my Portfolio)
+- Studying for an **M.Sc. in Data Science** at Universität Regensburg, Germany
+- Working as an **AI Intern at Rubixe** on applied machine learning projects
+- Building skills in **SQL, Power BI, Tableau, Excel and cloud for data science**
+- Looking for **working student and internship roles** in Data Science, Applied ML and AI in Germany
 
-- 📫 How to reach me **mohdsafiuddin99gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/safi-uddin-6546552a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safi-uddin-6546552a5" height="30" width="40" /></a>
-</p>
+## Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| Project | What it does | Tech | Code |
+|---|---|---|---|
+| **DeepTrace** | Detects AI-generated and synthetic images using transfer learning with ResNet and VGG | Python, TensorFlow, PyTorch, OpenCV, scikit-learn | [Repository](https://github.com/safiuddin37/Deep-Trace-Major.git) |
+| **AI-Powered Resume Analyzer** | Automates resume screening: skill extraction, resume matching, ATS score and skill gap analysis | Python, NLP, machine learning, Streamlit | [Repository](https://github.com/safiuddin37/SkillGapAnalyzer---Project.git) |
+| **Brain Tumor Detection** | Classifies brain tumors from MRI scans with CNNs (tumor / non-tumor and multi-class). Built during my Data Science internship at Manac Infotech | Python, CNN, deep learning | [Repository](https://github.com/safiuddin37/Brain-Tumor.git) |
+| **Tuition Management System** | Full-stack web app for coaching institutes: admissions, fees, scheduling, attendance, admin control, JWT authentication | React, Node.js, Express, MongoDB | [Repository](https://github.com/safiuddin37/Frontend.git) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiuddin37&show_icons=true&locale=en&layout=compact" alt="safiuddin37" /></p>
+More work in [Data-Analysis-Python](https://github.com/safiuddin37/Data-Analysis-Python), [Machine-Learning](https://github.com/safiuddin37/Machine-Learning) and [Power-BI](https://github.com/safiuddin37/Power-BI).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiuddin37&show_icons=true&locale=en" alt="safiuddin37" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiuddin37&" alt="safiuddin37" /></p>
+## Skills
 
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL, R, JavaScript, HTML, CSS |
+| **Data & ML** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn |
+| **Deep learning & AI** | TensorFlow, PyTorch, OpenCV, CNNs, transfer learning, NLP |
+| **Web** | React, Node.js, Express, MongoDB, Streamlit |
+| **Tools** | Git, GitHub, VS Code, Jupyter, Postman |
+
+---
+
+## Certifications & training
+
+- **IABAC**: Certified Data Science Foundation and AI Expert
+- **DataMites**: Data Science and AI course
+- **Indian Institute of Technology Hyderabad**: Data Science workshop (Aug 2024)
+- **Talent Development Center**: Full Stack Web Development (Jun 2025)
+- **Udemy**: Hands-On Python Data Science (Jul 2024)
+
+---
+
+## Education
+
+- **M.Sc. Data Science**, Universität Regensburg (2026 – present)
+- **B.E. Computer Science and Engineering (Data Science)**, Lords Institute of Engineering and Technology, Osmania University (2022 – 2026)
+
+---
+
+## Get in touch
+
+The best way to reach me is on [LinkedIn](www.linkedin.com/in/msafiuddin).
