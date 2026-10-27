@@ -4,7 +4,8 @@
 
 I use machine learning and AI to solve real data problems: preparing data, applying and evaluating models, and turning results into tools people can use. I started in full-stack web development (MERN) and moved into data science, so I can take a project from raw data to a working application.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Safiuddin-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/msafiuddin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Safiuddin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msafiuddin)
+![Open to](https://img.shields.io/badge/Open%20to-Working%20Student%20%26%20Internship%20roles-2EA44F?style=flat)
 
 ---
 
@@ -17,16 +18,40 @@ I use machine learning and AI to solve real data problems: preparing data, apply
 
 ---
 
-## Projects
+## Featured projects
 
-| Project | What it does | Tech | Code |
-|---|---|---|---|
-| **DeepTrace** | Detects AI-generated and synthetic images using transfer learning with ResNet and VGG | Python, TensorFlow, PyTorch, OpenCV, scikit-learn | [Repository](https://github.com/safiuddin37/Deep-Trace-Major.git) |
-| **AI-Powered Resume Analyzer** | Automates resume screening: skill extraction, resume matching, ATS score and skill gap analysis | Python, NLP, machine learning, Streamlit | [Repository](https://github.com/safiuddin37/SkillGapAnalyzer---Project.git) |
-| **Brain Tumor Detection** | Classifies brain tumors from MRI scans with CNNs (tumor / non-tumor and multi-class). Built during my Data Science internship at Manac Infotech | Python, CNN, deep learning | [Repository](https://github.com/safiuddin37/Brain-Tumor.git) |
-| **Tuition Management System** | Full-stack web app for coaching institutes: admissions, fees, scheduling, attendance, admin control, JWT authentication | React, Node.js, Express, MongoDB | [Repository](https://github.com/safiuddin37/Frontend.git) |
+### DeepTrace: AI-generated image detection
+A deep learning classifier that separates AI-generated and synthetic images from real ones.
+- **Approach:** transfer learning with ResNet and VGG; image preprocessing and feature extraction with OpenCV, NumPy and scikit-learn; hyperparameter tuning and regularization
+- **Stack:** Python, TensorFlow, PyTorch
+- **Code:** [Deep-Trace-Major](https://github.com/safiuddin37/Deep-Trace-Major)
 
-More work in [Data-Analysis-Python](https://github.com/safiuddin37/Data-Analysis-Python), [Machine-Learning](https://github.com/safiuddin37/Machine-Learning) and [Power-BI](https://github.com/safiuddin37/Power-BI).
+<!-- ADD under DeepTrace: dataset used, accuracy or F1 from your report, and the research paper link once its status is confirmed -->
+
+### AI-Powered Resume Analyzer
+A tool that automates resume screening and candidate evaluation.
+- **Approach:** skill extraction, resume-to-job matching, ATS score generation and skill gap analysis, with a Streamlit interface
+- **Stack:** Python, NLP, machine learning, Streamlit
+- **Code:** [SkillGapAnalyzer---Project](https://github.com/safiuddin37/SkillGapAnalyzer---Project)
+
+<!-- ADD under Resume Analyzer: a screenshot or short demo GIF -->
+
+### Brain Tumor Detection from MRI scans
+Built during my Data Science internship at Manac Infotech (Nov 2024 – Jan 2025).
+- **Approach:** CNN models for tumor / non-tumor prediction and multi-class tumor type identification
+- **Stack:** Python, deep learning, CNN
+- **Code:** [Brain-Tumor](https://github.com/safiuddin37/Brain-Tumor)
+
+<!-- ADD under Brain Tumor: dataset source, accuracy from your report, and a link to the report in the repo -->
+
+### Tuition Management System
+A full-stack web application for coaching institutes covering admissions, fee management, class scheduling, attendance and admin control, with JWT authentication.
+- **Stack:** React, Node.js, Express, MongoDB
+- **Code:** [Frontend](https://github.com/safiuddin37/Frontend)
+
+<!-- ADD the backend repo link here, or merge both into one repo -->
+
+More work: [Data-Analysis-Python](https://github.com/safiuddin37/Data-Analysis-Python) · [Machine-Learning](https://github.com/safiuddin37/Machine-Learning) · [Power-BI](https://github.com/safiuddin37/Power-BI)
 
 ---
 
@@ -44,11 +69,11 @@ More work in [Data-Analysis-Python](https://github.com/safiuddin37/Data-Analysis
 
 ## Certifications & training
 
-- **IABAC**: Certified Data Science Foundation and AI Expert
-- **DataMites**: Data Science and AI course
-- **Indian Institute of Technology Hyderabad**: Data Science workshop (Aug 2024)
-- **Talent Development Center**: Full Stack Web Development (Jun 2025)
-- **Udemy**: Hands-On Python Data Science (Jul 2024)
+- **IABAC:** Certified Data Science Foundation and AI Expert
+- **DataMites:** Data Science and AI course
+- **Indian Institute of Technology Hyderabad:** Data Science workshop (Aug 2024)
+- **Talent Development Center:** Full Stack Web Development (Jun 2025)
+- **Udemy:** Hands-On Python Data Science (Jul 2024)
 
 ---
 
@@ -61,4 +86,4 @@ More work in [Data-Analysis-Python](https://github.com/safiuddin37/Data-Analysis
 
 ## Get in touch
 
-The best way to reach me is on [LinkedIn](www.linkedin.com/in/msafiuddin).
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/msafiuddin).
