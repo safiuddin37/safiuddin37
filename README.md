@@ -5,7 +5,7 @@
 I use machine learning and AI to solve real data problems: preparing data, applying and evaluating models, and turning results into tools people can use. I started in full-stack web development (MERN) and moved into data science, so I can take a project from raw data to a working application.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Safiuddin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msafiuddin)
-![Open to](https://img.shields.io/badge/Open%20to-Working%20Student%20%26%20Internship%20roles-2EA44F?style=flat)
+
 
 ---
 
@@ -14,7 +14,6 @@ I use machine learning and AI to solve real data problems: preparing data, apply
 - Studying for an **M.Sc. in Data Science** at Universität Regensburg, Germany
 - Working as an **AI Intern at Rubixe** on applied machine learning projects
 - Building skills in **SQL, Power BI, Tableau, Excel and cloud for data science**
-- Looking for **working student and internship roles** in Data Science, Applied ML and AI in Germany
 
 ---
 
